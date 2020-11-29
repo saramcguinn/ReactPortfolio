@@ -99,31 +99,31 @@
       {
         "title":"Skindex",
         "category":"Build a personalized skincare routine",
-        "image":"",
+        "image":"faces.jpg",
         "url":"https://skindex.herokuapp.com/"
       },
       {
         "title":"Aquarium4Noobs",
         "category":"Design and plan your first home aquarium",
-        "image":"",
+        "image":"fish.jpg",
         "url":"https://aquarium4noobs.herokuapp.com/"
       },
       {
         "title":"Weather Dashboard",
         "category":"Display the weather forecast for anywhere in the world",
-        "image":"",
+        "image":"sky.jfif",
         "url":"https://github.com/saramcguinn/WeatherDashboard"
       },
       {
         "title":"Genius Test",
         "category":"Take the quiz - you might be a genius!",
-        "image":"",
+        "image":"brain-clipart.jpg",
         "url":"https://github.com/saramcguinn/GeniusTest"
       },
       {
         "title":"Day Planner",
         "category":"Log tasks/notes by the hour",
-        "image":"",
+        "image":"laptop.jpg",
         "url":"https://github.com/saramcguinn/DayPlanner"
       }
     ]
